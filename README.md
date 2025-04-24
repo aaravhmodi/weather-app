@@ -15,12 +15,6 @@ A sleek, responsive weather web app built with **HTML, CSS, and JavaScript**, po
 
 ---
 
-## 🖥️ Live Preview
-
-> Coming soon via GitHub Pages...
-
----
-
 ## 🛠️ Tech Stack
 
 | Frontend       | Styling        | APIs & Libraries     |
