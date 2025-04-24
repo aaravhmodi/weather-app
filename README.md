@@ -46,6 +46,4 @@ A sleek, responsive weather web app built with **HTML, CSS, and JavaScript**, po
 |--------------|
 | ![desktop](images/image.png) |
 
-> 💡 Save the uploaded screenshot as `images/screenshot-desktop.png` in your project.
 
----
